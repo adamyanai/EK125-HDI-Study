@@ -3,5 +3,5 @@ This project involved scrubbing and analyzing data sets on HDI and obesity rates
 Data Sets:
 - Obesity Rates in countries:
 https://www.kaggle.com/datasets/amanarora/obesity-among-adults-by-country-19752016
-- Most recent HDI (2021) dataset:
+- HDI (2021) dataset:
 https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
